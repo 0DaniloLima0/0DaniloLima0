@@ -8,13 +8,31 @@ Estudante de **Desenvolvimento Web** e **Automação de Processos**. Atualmente 
 
 ---
 
-### 🛠️ Tecnologias e Estatísticas
+### 🛠️ Tecnologias e habilidades
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0DaniloLima0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0DaniloLima0&layout=compact&langs_count=7&theme=dark"/>
+**Linguagens e Automação:**
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
+<br>
+
+**Data Visualization & Office:**
+<div align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</div>
+
+<br>
+
+**Front-end (Estudando):**
+<div align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
 ---
 
 ### 📫 Conecte-se comigo:
