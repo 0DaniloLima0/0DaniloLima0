@@ -43,7 +43,7 @@ Estudante de **Desenvolvimento Web** e **Automação de Processos**. Atualmente 
 <br>
 
 <div align="right">
-  <img alt="Danilo-pic" height="100" style="border-radius:50px;" src="https://64.media.tumblr.com/2a63bc0ac54fe8fba5e9ea7042652d48/5321eccd302337fc-a3/s400x600/64d650a66e157c61bf63c90bcc43d11eef765de3.gifv">
+  <img src="https://64.media.tumblr.com/2a63bc0ac54fe8fba5e9ea7042652d48/5321eccd302337fc-a3/s400x600/64d650a66e157c61bf63c90bcc43d11eef765de3.gifv" width="100" style="border-radius: 50%;">
 </div>
 
 ## 🚀 Meu Principal Projeto: X-Sucesso
