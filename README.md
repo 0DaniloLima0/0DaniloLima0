@@ -1,20 +1,22 @@
-
 ## Olá! Eu sou o Danilo Lima 👋
 
-Estudante de **Desenvolvimento Web** e **Automação de Processos**. Atualmente focado em transformar dados em soluções inteligentes através de Python e ferramentas de Business Intelligence.
+**Analista de Dados & Especialista em Automação**  
+Focado em transformar processos manuais em fluxos automáticos e dados brutos em decisões estratégicas.
 
-- 🌱 Estudando: Front-end, Python e Automação com Playwright.
-- 📊 Focado em: Business Intelligence e Engenharia de Dados.
+- 🛠️ **Automação:** Desenvolvendo robôs com Python e Playwright para extração de dados (ETL).
+- 🗄️ **Banco de Dados:** Manipulação e consulta de grandes volumes de dados com SQL.
+- 📊 **BI:** Criação de dashboards dinâmicos e intuitivos no Power BI.
 
 ---
 
-### 🛠️ Tecnologias e habilidades
+### 🛠️ Minha Stack de Dados
 
 **Linguagens e Automação:**
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" />
 </div>
 
 <br>
@@ -25,25 +27,16 @@ Estudante de **Desenvolvimento Web** e **Automação de Processos**. Atualmente 
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </div>
 
-<br>
+---
 
-**Front-end (Estudando):**
-<div align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
+## 🚀 Projeto em Destaque: X-Sucesso
+> **Pipeline de Dados Automático:** Robô em Python que extrai dados de sistemas ERP, trata as informações com Pandas e prepara a base para relatórios de BI.
+
+🔗 [**Ver Repositório do Projeto**](https://github.com/0DaniloLima0/X-Sucesso)
 
 ---
 
-## 🚀 Meu Principal Projeto: X-Sucesso
-> **Automação Inteligente:** Robô desenvolvido em Python para otimização de processos ERP e extração automática de dados.
-
-🔗 [**Clique aqui para acessar o projeto**](https://github.com/0DaniloLima0/X-Sucesso)
-
----
-
-### 📫 Conecte-se comigo:
+### 📫 Vamos conversar?
 
 <div align="left">
   <a href="https://www.linkedin.com/in/danilosantoslima" target="_blank">
