@@ -4,6 +4,7 @@ Estudante de **Desenvolvimento Web** e **Automação de Processos**. Atualmente 
 
 - 🌱 Estudando: Front-end, Python e Automação com Playwright.
 - 📊 Focado em: Business Intelligence e Engenharia de Dados.
+- 📊 Data Visualization: Desenvolvendo dashboards interativos no Power BI para análise de KPIs financeiros.
 
 ---
 
