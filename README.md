@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Danilo Lima 👋
 
+🔗 **Conheça meu principal projeto:** [Robô de Automação X-Sucesso](https://github.com/0DaniloLima0/X-Sucesso)
+
 Estudante de **Desenvolvimento Web** e **Automação de Processos**. Atualmente focado em transformar dados em soluções inteligentes através de Python e ferramentas de Business Intelligence.
 
 - 🌱 Estudando: Front-end, Python e Automação com Playwright.
