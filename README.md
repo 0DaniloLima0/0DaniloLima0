@@ -1,10 +1,10 @@
+
 ## Olá! Eu sou o Danilo Lima 👋
 
 Estudante de **Desenvolvimento Web** e **Automação de Processos**. Atualmente focado em transformar dados em soluções inteligentes através de Python e ferramentas de Business Intelligence.
 
 - 🌱 Estudando: Front-end, Python e Automação com Playwright.
 - 📊 Focado em: Business Intelligence e Engenharia de Dados.
-- 📊 Data Visualization: Desenvolvendo dashboards interativos no Power BI para análise de KPIs financeiros.
 
 ---
 
@@ -27,6 +27,20 @@ Estudante de **Desenvolvimento Web** e **Automação de Processos**. Atualmente 
 
 <br>
 
+**Front-end (Estudando):**
+<div align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+---
+
+## 🚀 Meu Principal Projeto: X-Sucesso
+> **Automação Inteligente:** Robô desenvolvido em Python para otimização de processos ERP e extração automática de dados.
+
+🔗 [**Clique aqui para acessar o projeto**](https://github.com/0DaniloLima0/X-Sucesso)
+
 ---
 
 ### 📫 Conecte-se comigo:
@@ -43,10 +57,5 @@ Estudante de **Desenvolvimento Web** e **Automação de Processos**. Atualmente 
 <br>
 
 <div align="right">
-  <img src="https://64.media.tumblr.com/2a63bc0ac54fe8fba5e9ea7042652d48/5321eccd302337fc-a3/s400x600/64d650a66e157c61bf63c90bcc43d11eef765de3.gifv" width="100" style="border-radius: 50%;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1TVr9W5786nYZ39/giphy.gif" width="100">
 </div>
-
-## 🚀 Meu Principal Projeto: X-Sucesso
-> **Automação Inteligente:** Robô desenvolvido em Python para otimização de processos ERP.
-
-[CLIQUE AQUI PARA VER O PROJETO](https://github.com/0DaniloLima0/X-Sucesso)
