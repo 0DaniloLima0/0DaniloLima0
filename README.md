@@ -29,7 +29,7 @@ Focado em transformar processos manuais em fluxos automáticos e dados brutos em
 
 ---
 
-## 🚀 Projeto em Destaque: X-Sucesso
+## 🚀 Projeto em Destaque: BOT B.I 
 > **Pipeline de Dados Automático:** Robô em Python que extrai dados de sistemas ERP, trata as informações com Pandas e prepara a base para relatórios de BI.
 
 🔗 [**Ver Repositório do Projeto**](https://github.com/0DaniloLima0/X-Sucesso)
