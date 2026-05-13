@@ -1,11 +1,11 @@
 ## Olá! Eu sou o Danilo Lima 👋
 
-**Analista de Dados & Especialista em Automação**  
+**Especialista em RPA & Analista de Dados**  
 Focado em transformar processos manuais em fluxos automáticos e dados brutos em decisões estratégicas.
 
-- 🛠️ **Automação:** Desenvolvendo robôs com Python e Playwright para extração de dados (ETL).
-- 🗄️ **Banco de Dados:** Manipulação e consulta de grandes volumes de dados com SQL.
-- 📊 **BI:** Criação de dashboards dinâmicos e intuitivos no Power BI.
+- 🛠️ **Automação (RPA):** Desenvolvimento de robôs com **Python** e **Playwright** para extração de dados e automação web.
+- 🗄️ **Data Pipeline:** Manipulação, limpeza e tratamento de grandes volumes de dados com **SQL** e **Pandas**.
+- 📊 **Business Intelligence:** Criação de dashboards dinâmicos no **Power BI** integrados a bases automatizadas.
 
 ---
 
@@ -29,10 +29,15 @@ Focado em transformar processos manuais em fluxos automáticos e dados brutos em
 
 ---
 
-## 🚀 Projeto em Destaque: BOT B.I 
-> **Pipeline de Dados Automático:** Robô em Python que extrai dados de sistemas ERP, trata as informações com Pandas e prepara a base para relatórios de BI.
+## 🚀 Projetos em Destaque
 
-🔗 [**Ver Repositório do Projeto**](https://github.com/0DaniloLima0/X-Sucesso)
+### 🤖 Automação Web - Relatório GPS
+> **Pipeline de Extração e Tratamento:** Script robusto que automatiza o login, download de relatórios logísticos, gestão de backups e tratamento automático de planilhas Excel para consumo imediato em BI.
+> 🔗 [**Ver Repositório GPS**](https://github.com/0DaniloLima0/automacao-web-relatoriogps)
+
+### 📈 Projeto X-Sucesso 
+> **Gestão e Automação de Processos:** Desenvolvimento de ferramentas para otimização de fluxos de trabalho, integrando coleta de dados e organização sistêmica para suporte à tomada de decisão.
+> 🔗 [**Ver Repositório X-Sucesso**](https://github.com/0DaniloLima0/X-Sucesso)
 
 ---
 
@@ -50,5 +55,5 @@ Focado em transformar processos manuais em fluxos automáticos e dados brutos em
 <br>
 
 <div align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1TVr9W5786nYZ39/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y4amZpYmF3Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3JmYmwmdD1n/L1R1TVr9W5786nYZ39/giphy.gif" width="100">
 </div>
