@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReportLab-%23FF4B4B.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </div>
 
 <br>
