@@ -39,9 +39,9 @@ Focado em transformar processos manuais em fluxos automáticos e dados brutos em
 > **Gestão e Automação de Processos:** Desenvolvimento de ferramentas para otimização de fluxos de trabalho, integrando coleta de dados e organização sistêmica para suporte à tomada de decisão.
 > 🔗 [**Ver Repositório X-Sucesso**](https://github.com/0DaniloLima0/X-Sucesso)
 
-### 📊 Home Broker Profissional - B3 & Método Barsi
+### 📊 Home Broker Profissional - B3
 > **Terminal de Análise Fundamentalista e Gestão de Carteira:** Aplicação desktop desenvolvida em Python (Tkinter) para varredura de ativos da B3, cálculo automático de Preço Teto, Margem de Segurança, geração de relatórios setorizados em PDF e simulador completo de aportes com controle de Preço Médio e Alocação Setorial.
-> 🔗 [**Ver Repositório Home Broker**](https://github.com/0DaniloLima0/corretor-de-casa-b3)
+> 🔗 [**Ver Repositório Home Broker**](https://github.com/0DaniloLima0/home-broker-b3)
 
 ---
 
