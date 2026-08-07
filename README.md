@@ -1,18 +1,18 @@
 <div align="center">
-  <h1>Olá! Eu sou o Danilo Lima 👋</h1>
-  <p><h3>Especialista em RPA & Analista de Dados</h3></p>
-  <p>Focado em transformar processos manuais em fluxos automáticos e dados brutos em decisões estratégicas.</p>
+  <h1>Hello! I'm Danilo Lima 👋</h1>
+  <p><h3>RPA Specialist & Data Analyst</h3></p>
+  <p>Focused on transforming manual processes into automated workflows and raw data into strategic decisions.</p>
 </div>
 
 ---
 
-- 🛠️ **Automação (RPA):** Desenvolvimento de robôs com **Python** e automação web.
-- 🗄️ **Data Pipeline:** Manipulação, limpeza e tratamento de grandes volumes de dados com **SQL** e **Pandas**.
-- 📊 **Business Intelligence:** Criação de dashboards dinâmicos no **Power BI** integrados a bases automatizadas.
+- 🛠️ **Automation (RPA):** Development of robust bots using **Python** and web automation.
+- 🗄️ **Data Pipeline:** Manipulation, cleaning, and processing of large volumes of data using **SQL** and **Pandas**.
+- 📊 **Business Intelligence:** Creation of dynamic dashboards in **Power BI** integrated with automated databases.
 
 ---
 
-## 🛠️ Minha Stack Tecnológica
+## 🛠️ Tech Stack
 
 <div align="left" data-importer="techs">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,23 +28,23 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-### 🤖 Automação Web - Relatório GPS
-> **Pipeline de Extração e Tratamento:** Script robusto que automatiza o login, download de relatórios logísticos, gestão de backups e tratamento automático de planilhas Excel para consumo imediato em BI.
-> 🔗 [**Ver Repositório GPS**](https://github.com/0DaniloLima0/automacao-web-relatoriogps)
+### 🤖 Web Automation - GPS Report
+> **Extraction & Processing Pipeline:** Robust script that automates login, downloads logistics reports, manages backups, and automatically processes Excel spreadsheets for immediate BI consumption.
+> 🔗 [**View GPS Repository**](https://github.com/0DaniloLima0/automacao-web-relatoriogps)
 
-### 📈 Projeto X-Sucesso (Automação ERP & Base de Dados)
-> **Gestão e Automação de Processos:** Desenvolvimento de ferramentas para otimização de fluxos de trabalho no ERP, integrando coleta, estruturação e tratamento de dados para suporte à tomada de decisão.
-> 🔗 [**Ver Repositório X-Sucesso**](https://github.com/0DaniloLima0/automacao-erp-basedados-bi)
+### 📈 X-Sucesso Project (ERP Automation & Database)
+> **Process Management & Automation:** Development of tools to optimize ERP workflows, integrating data collection, structuring, and processing for decision-making support.
+> 🔗 [**View X-Sucesso Repository**](https://github.com/0DaniloLima0/automacao-erp-basedados-bi)
 
-### 📊 Home Broker Profissional - B3
-> **Terminal de Análise Fundamentalista e Gestão de Carteira:** Aplicação desktop desenvolvida em Python (`Tkinter`) com suporte a Multithreading, consumo de APIs financeiras (`yfinance` e `Fundamentus`), exportação de relatórios setorizados em PDF (`ReportLab`) e simulador completo de aportes.
-> 🔗 [**Ver Repositório Home Broker**](https://github.com/0DaniloLima0/home-broker-b3)
+### 📊 Professional Home Broker - B3
+> **Fundamentalist Analysis & Portfolio Management Terminal:** Desktop application developed in Python (`Tkinter`) featuring Multithreading, financial API integration (`yfinance` and `Fundamentus`), sectorized PDF report export (`ReportLab`), and a complete portfolio contribution simulator.
+> 🔗 [**View Home Broker Repository**](https://github.com/0DaniloLima0/home-broker-b3)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <p>
@@ -59,7 +59,7 @@
 
 ---
 
-### 📫 Vamos conversar?
+### 📫 Let's Connect?
 
 <div align="center">
   <a href="https://www.linkedin.com/in/danilosantoslima" target="_blank">
@@ -77,5 +77,5 @@
 </div>
 
 <div align="right">
-  <p><small>👁️ Visualizações do perfil: <img src="https://komarev.com/ghpvc/?username=0DaniloLima0&color=blueviolet&style=flat-square" alt="0DaniloLima0" /></small></p>
+  <p><small>👁️ Profile views: <img src="https://komarev.com/ghpvc/?username=0DaniloLima0&color=blueviolet&style=flat-square" alt="0DaniloLima0" /></small></p>
 </div>
