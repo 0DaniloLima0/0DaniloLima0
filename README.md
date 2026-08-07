@@ -35,9 +35,9 @@ Focado em transformar processos manuais em fluxos automáticos e dados brutos em
 > **Pipeline de Extração e Tratamento:** Script robusto que automatiza o login, download de relatórios logísticos, gestão de backups e tratamento automático de planilhas Excel para consumo imediato em BI.
 > 🔗 [**Ver Repositório GPS**](https://github.com/0DaniloLima0/automacao-web-relatoriogps)
 
-### 📈 Projeto X-Sucesso 
-> **Gestão e Automação de Processos:** Desenvolvimento de ferramentas para otimização de fluxos de trabalho, integrando coleta de dados e organização sistêmica para suporte à tomada de decisão.
-> 🔗 [**Ver Repositório X-Sucesso**](https://github.com/0DaniloLima0/X-Sucesso)
+### 📈 Projeto X-Sucesso (Automação ERP & Base de Dados)
+> **Gestão e Automação de Processos:** Desenvolvimento de ferramentas para otimização de fluxos de trabalho no ERP, integrando coleta, estruturação e tratamento de dados para suporte à tomada de decisão.
+> 🔗 [**Ver Repositório X-Sucesso**](https://github.com/0DaniloLima0/automacao-erp-basedados-bi)
 
 ### 📊 Home Broker Profissional - B3
 > **Terminal de Análise Fundamentalista e Gestão de Carteira:** Aplicação desktop desenvolvida em Python (Tkinter) com suporte a Multithreading, consumo de APIs financeiras (yfinance e Fundamentus), exportação de relatórios setorizados em PDF (ReportLab) e simulador completo de aportes.
