@@ -6,7 +6,7 @@
 
 ---
 
-- 🛠️ **Automação (RPA):** Desenvolvimento de robôs com **Python** e **Playwright** para extração de dados e automação web.
+- 🛠️ **Automação (RPA):** Desenvolvimento de robôs com **Python** e automação web.
 - 🗄️ **Data Pipeline:** Manipulação, limpeza e tratamento de grandes volumes de dados com **SQL** e **Pandas**.
 - 📊 **Business Intelligence:** Criação de dashboards dinâmicos no **Power BI** integrados a bases automatizadas.
 
@@ -15,21 +15,15 @@
 ## 🛠️ Minha Stack Tecnológica
 
 <div align="left" data-importer="techs">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img width="12" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
@@ -45,7 +39,7 @@
 > 🔗 [**Ver Repositório X-Sucesso**](https://github.com/0DaniloLima0/automacao-erp-basedados-bi)
 
 ### 📊 Home Broker Profissional - B3
-> **Terminal de Análise Fundamentalista e Gestão de Carteira:** Aplicação desktop desenvolvida em Python (Tkinter) com suporte a Multithreading, consumo de APIs financeiras (`yfinance` e `Fundamentus`), exportação de relatórios setorizados em PDF (`ReportLab`) e simulador completo de aportes.
+> **Terminal de Análise Fundamentalista e Gestão de Carteira:** Aplicação desktop desenvolvida em Python (`Tkinter`) com suporte a Multithreading, consumo de APIs financeiras (`yfinance` e `Fundamentus`), exportação de relatórios setorizados em PDF (`ReportLab`) e simulador completo de aportes.
 > 🔗 [**Ver Repositório Home Broker**](https://github.com/0DaniloLima0/home-broker-b3)
 
 ---
@@ -54,10 +48,12 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=0DaniloLima0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    <a href="https://github.com/0DaniloLima0">
+      <img src="https://github-readme-stats.vercel.app/api?username=0DaniloLima0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </a>
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0DaniloLima0&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0DaniloLima0&layout=compact&theme=radical&langs_count=6" alt="Top Langs" />
   </p>
 </div>
 
